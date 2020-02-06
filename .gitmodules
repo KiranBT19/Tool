@@ -1,0 +1,6 @@
+[submodule "MRTC"]
+	path = MRTC
+	url = ../MRTC.git
+[submodule "TestSpec"]
+	path = TestSpec
+	url = ../TestSpec.git
