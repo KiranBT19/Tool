@@ -1,6 +1,4 @@
-[submodule "MRTC"]
-	path = MRTC
-	url = ../MRTC.git
-[submodule "TestSpec"]
-	path = TestSpec
-	url = ../TestSpec.git
+[submodule "tHotFix"]
+	path = tHotFix
+	url = https://github.com/KiranBT19/tHotFix.git
+	branch = master
